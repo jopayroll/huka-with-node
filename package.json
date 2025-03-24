@@ -1,0 +1,20 @@
+{
+  "name": "huka-with-node",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jopayroll/huka-with-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jopayroll/huka-with-node/issues"
+  },
+  "homepage": "https://github.com/jopayroll/huka-with-node#readme",
+  "description": "",
+  "salary": 50000
+}
